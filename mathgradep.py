@@ -1,4 +1,4 @@
-stu_mathg = 60
+stu_mathg = 80
 if (stu_mathg >= 90):
     print("You got a A on your Math Test, Amazing Job!")
 elif (stu_mathg >= 80):
